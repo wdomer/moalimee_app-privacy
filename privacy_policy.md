@@ -28,7 +28,7 @@ You should review the privacy policies of those services. We do not control thir
 We do not sell personal information. We may share data with service providers that perform services for us (hosting, analytics) and where required by law. Shared data is limited to what is necessary to provide those services.
 
 5. Data Retention
-We retain personal data only as long as necessary to provide the App and comply with legal obligations. If you delete your account (where applicable), your personal data will be removed or anonymized within a reasonable time period, except where retention is required by law.
+We retain personal data only as long as necessary to provide the App and comply with legal obligations. If you delete your account , your personal data will be removed or anonymized within a reasonable time period, except where retention is required by law.
 
 6. Security
 We use reasonable administrative, technical, and physical safeguards to protect personal information. However, no method of transmission over the Internet or electronic storage is completely secure.
