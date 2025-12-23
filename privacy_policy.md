@@ -1,60 +1,103 @@
-# Privacy Policy
+✅ English Privacy Policy (FINAL)
 
+Privacy Policy – Moalimee
 Last updated: November 25, 2025
 
-This Privacy Policy explains how the Moalimee mobile application (the “App”) collects, uses, shares, and protects the personal information of users. By using the App you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how the Moalimee mobile application (the “App”) collects, uses, shares, and protects user information. By using the App, you agree to the collection and use of information in accordance with this policy.
 
-1. Information We Collect
-- Account information: name, email address, profile data you provide when you register or sign in.
-- Authentication data: tokens or credentials needed for account access (securely stored).
-- Service usage: anonymous and aggregated usage metrics and analytics to help us improve the App.
-- Device & diagnostics: device model, OS version, crash logs and performance data.
-- Content and activity: lessons accessed, progress, answers you submit, and preferences.
+Information We Collect
 
-2. How We Use Information
-- Provide and operate the App, authenticate users, and maintain your account.
-- Personalize the experience, save preferences, and track lesson progress.
-- Diagnose and fix issues, monitor performance, and improve features.
-- Communicate with you about updates, support, and safety/security notifications.
+Account Information
+Name, email address, and profile information you provide when registering or signing in.
 
-3. Third-Party Services
-The App may use third-party services to provide functionality (for example, YouTube playback, analytics, or hosting). These third parties may collect information according to their own privacy policies. Examples include:
-- YouTube (for video playback)
-- Analytics and crash reporting providers
+Authentication Data
+Secure authentication tokens used to access and restore your account session.
 
-You should review the privacy policies of those services. We do not control third-party policies.
+Service Usage & Analytics
+Anonymous and aggregated usage data such as screen views, feature interactions, and app usage patterns.
 
-4. Data Sharing and Disclosure
-We do not sell personal information. We may share data with service providers that perform services for us (hosting, analytics) and where required by law. Shared data is limited to what is necessary to provide those services.
+Device & Diagnostics
+Device model, operating system version, crash logs, and performance diagnostics.
 
-5. Data Retention
-We retain personal data only as long as necessary to provide the App and comply with legal obligations. If you delete your account , your personal data will be removed or anonymized within a reasonable time period, except where retention is required by law.
+Educational Content & Activity
+Lessons accessed, learning progress, quiz answers, and user preferences.
 
-6. Security
-We use reasonable administrative, technical, and physical safeguards to protect personal information. However, no method of transmission over the Internet or electronic storage is completely secure.
+How We Use Information
 
-7. Children
-The App is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such data, please contact us and we will take steps to remove it.
+To provide and operate the App and authenticate users
 
-8. Your Rights
-Depending on your jurisdiction, you may have the right to access, correct, or delete your personal data, and to object to certain processing. To exercise these rights, contact us at the address below.
+To save learning progress and personalize the educational experience
 
-9. International Transfers
-Data may be stored or processed in countries other than your country of residence. By using the App you consent to the transfer of information to countries that may have different data protection laws.
+To analyze performance, diagnose issues, and improve features
 
-10. Contact
-If you have questions about this Privacy Policy or want to exercise your privacy rights, contact us:
+To communicate important updates, security notices, or support messages
+
+Analytics
+
+We use Google Analytics for Firebase to collect anonymized usage statistics such as screen views and feature interactions.
+This data is used solely to improve app performance and user experience.
+
+No advertising personalization
+
+No cross-app or cross-service tracking
+
+No sale of personal data
+
+Offline Storage
+
+To support offline learning, the App stores selected educational content and user progress locally on the device.
+This data remains on the device and is synchronized with our servers only when an internet connection is available.
+
+Third-Party Services
+
+The App may use third-party services to provide functionality, such as:
+
+Google Analytics for Firebase (analytics)
+
+YouTube (video playback)
+
+Cloud hosting and crash reporting services
+
+These services may collect information in accordance with their own privacy policies. We do not control third-party practices.
+
+Data Sharing and Disclosure
+
+We do not sell personal information.
+We may share limited data with service providers strictly for analytics, hosting, or legal compliance purposes.
+
+Data Retention
+
+We retain personal data only as long as necessary to provide the App and comply with legal obligations.
+If you delete your account, your personal data will be deleted or anonymized within a reasonable timeframe unless retention is required by law.
+
+Security
+
+We apply reasonable administrative, technical, and organizational measures to protect personal information.
+However, no method of electronic storage or transmission is 100% secure.
+
+Children’s Privacy
+
+The App is designed for educational use and may be used by students under the age of 13 with the consent and supervision of a parent, guardian, or teacher.
+We do not knowingly collect personal information beyond what is necessary to provide educational functionality.
+We do not use personal data for advertising or marketing purposes.
+
+If you believe that a child’s data has been collected without appropriate consent, please contact us and we will take appropriate action.
+
+Your Rights
+
+Depending on your jurisdiction, you may have the right to access, correct, or delete your personal data, or object to certain processing.
+To exercise these rights, please contact us.
+
+International Transfers
+
+Your information may be stored or processed in countries other than your country of residence. By using the App, you consent to such transfers.
+
+Contact Us
+
+If you have questions about this Privacy Policy or your data:
 
 Email: support@moalimee.app
 
-11. Changes to This Policy
-We may update this Privacy Policy from time to time. We will post the revised policy with the date of last revision.
+Changes to This Policy
 
-Hosting & Play Console instructions
-- Host this file publicly (recommended: GitHub Pages by enabling Pages to serve the `docs/` folder, or upload to your website). The Play Console accepts one Privacy Policy URL — use the public URL that serves this content.
-- In the Play Console, go to your app > Policy > Privacy Policy and paste the public URL.
-
-Suggested next steps
-- Translate and publish the Arabic version at `docs/ar/privacy_policy.md`.
-- Add an in-app link (Settings/About) that opens the hosted URL using `url_launcher` or WebView.
-
+We may update this Privacy Policy from time to time. The updated version will be published with a revised “Last updated” date.
